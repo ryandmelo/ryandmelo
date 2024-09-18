@@ -8,6 +8,9 @@
   <img width="41%"height="195px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryandmelo&layout=compact&hide_border=true&title_color=00FF08&text_color=00FF08&bg_color=0d1117"/>
 </div>
 <!-------------------------------->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ryandmelo&bg_color=0d1117&color=99c1f1&line=00ff08&point=f6f5f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-------------------------------->
 <div align="center">
   <a href = "https://ryandmelo.github.io/my-portfolio/'"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
@@ -30,4 +33,3 @@
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=f00&labelColor=0D1117)&nbsp;
 ![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=092E20&labelColor=0D1117)&nbsp;
 <!-------------------------------->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF08&height=120&section=footer"/>
